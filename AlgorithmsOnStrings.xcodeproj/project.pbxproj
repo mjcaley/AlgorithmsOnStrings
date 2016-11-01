@@ -188,8 +188,7 @@
 			children = (
 				270716291DC6824E005D3A8B /* main.cpp */,
 			);
-			name = "ConstructTheBurrows-WheelerTransformOfAString";
-			path = "ReconstructAStringFromItsBurrows-WheelerTransform";
+			path = "ConstructTheBurrows-WheelerTransformOfAString";
 			sourceTree = "<group>";
 		};
 		2710E1C21DC004D200754D8E /* ExtendTrieMatching */ = {
@@ -213,8 +212,7 @@
 			children = (
 				2769E0E51DC78C5800F9107B /* main.cpp */,
 			);
-			name = "ReconstructAStringFromItsBurrows-WheelerTransform";
-			path = "../ReconstructAStringFromItsBurrows-WheelerTransform";
+			path = "ReconstructAStringFromItsBurrows-WheelerTransform";
 			sourceTree = "<group>";
 		};
 		27CCED4E1DBFCD13008DA7E1 /* ImplementingTrieMatching */ = {
@@ -823,7 +821,6 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -871,7 +868,6 @@
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
 				CLANG_ANALYZER_NONNULL = YES;
-				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_ENABLE_MODULES = YES;
 				CLANG_ENABLE_OBJC_ARC = YES;
 				CLANG_WARN_BOOL_CONVERSION = YES;
@@ -1053,6 +1049,7 @@
 				2769E0E81DC78C5800F9107B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		27CCED531DBFCD13008DA7E1 /* Build configuration list for PBXNativeTarget "ImplementingTrieMatching" */ = {
 			isa = XCConfigurationList;
